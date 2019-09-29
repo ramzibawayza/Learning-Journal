@@ -1,5 +1,5 @@
 ## Welcome to my websites
-
+**this is boldtext**
 
 ### growth mindset
 In decision theory and general systems theory, a mindset is a set of assumptions, methods, or notations held by one or more people or groups of people.[citation needed]
@@ -12,17 +12,22 @@ A mindset may be so firmly established that it creates a powerful incentive with
 ```markdown
 Syntax highlighted code block
 
-# what is the growth mindset:
+# growth mindset in santence:
 A growth mindset is when students understand that their abilities can be developed
 
+![](http://sites.dartmouth.edu/learning/files/2017/05/A2-Understanding-the-Growth-Mindset.jpg)
+
 ##  3 reminders to yourself of how to keep yourself in a growth mindset
-1- do not give up.
+1. do not give up.
 
-2- Learn to give and receive constructive criticism.
+2. Learn to give and receive constructive criticism.
 
-3-  Reflect on your learning every day.
+3.  Reflect on your learning every day.
 
 
 ### Support or Contact
+BY EMAIL: Ramzibawayza12@gmail.com
+BY PHONE: +96779456876
 
-+96779456876
+
+
