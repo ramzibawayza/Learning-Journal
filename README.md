@@ -17,7 +17,9 @@ A growth mindset is when students understand that their abilities can be develop
 
 ##  3 reminders to yourself of how to keep yourself in a growth mindset
 1- do not give up.
+
 2- Learn to give and receive constructive criticism.
+
 3-  Reflect on your learning every day.
 
 
