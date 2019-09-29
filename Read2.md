@@ -1,4 +1,4 @@
-##text editor
+## text editor
 
 He talks about how to choose a text editor and its frequency of choice, due to the many and different editors.
 
