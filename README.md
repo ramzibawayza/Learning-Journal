@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my websites
 
-You can use the [editor on GitHub](https://github.com/ramzibawayza/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### growth mindset
+In decision theory and general systems theory, a mindset is a set of assumptions, methods, or notations held by one or more people or groups of people.[citation needed]
 
-### Markdown
+A mindset can also be seen as incident of a person's world view or philosophy of life.[citation needed]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A mindset may be so firmly established that it creates a powerful incentive within these people or groups to continue to adopt or accept prior behaviors, choices, or tools.[citation needed] The latter phenomenon is also sometimes described as mental inertia, "groupthink", and it is often difficult to counteract its effects upon analysis and decision making processes.
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# what is the growth mindset:
+A growth mindset is when students understand that their abilities can be developed
+
+##  3 reminders to yourself of how to keep yourself in a growth mindset
+1- do not give up.
+2- Learn to give and receive constructive criticism.
+3-  Reflect on your learning every day.
 
 - Bulleted
 - List
