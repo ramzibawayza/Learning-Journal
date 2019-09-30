@@ -18,3 +18,6 @@ Third-party options:
 Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom,
 Brackets, and Sublime Text. These text editors can all be downloaded
 and installed to your computer from their respective websites.
+
+
+# [Back](Readall.md)  
