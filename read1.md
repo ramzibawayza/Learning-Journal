@@ -4,4 +4,6 @@ Markdown is a popular way of adding formatting such as headers, lists, emphasis,
 
 In this article, we’ll look at the role Markdown can play in your daily workflow, teach you the basic Markdown syntax to get you started, and finally recommend some great Markdown editors you can try.
 
-Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.
+Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.   
+
+# [Back](Readall.md)    
