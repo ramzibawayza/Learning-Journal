@@ -27,7 +27,7 @@ A growth mindset is when students understand that their abilities can be develop
 
 ### Support or Contact
 BY EMAIL: Ramzibawayza12@gmail.com
-BY PHONE: +96779456876
+BY PHONE: +96779456876 
 
 
 
