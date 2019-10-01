@@ -14,3 +14,12 @@ The background-color property sets the background color of an element.
 
 The background of an element is the total size of the element, including padding and border (but not the margin).
 
+## CONTRAST:
+Contrast is the difference in luminance or colour that makes an object (or its representation in an image or display) distinguishable. In visual perception of the real world, contrast is determined by the difference in the color and brightness of the object and other objects within the same field of view.
+
+## HSL HSLA:
+CSS has a hsl() function that is used to define colors in the HSL format which stands for Hue, Saturation and Lightness. All these three values can be set in the hsl() function in their respective order.
+
+The hue component of HSL specifies the angle (degrees) in the color wheel.
+
+![](https://i.imgur.com/RzGzNHZ.png)
